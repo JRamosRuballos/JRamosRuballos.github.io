@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Your custom styles go here
+body {
+    background-color: #E6E6FA; /* Light lilac background */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #6A5ACD; /* Slate Blue for headings */
+}
+
+a {
+    color: #4682B4; /* Steel Blue for links */
+}
